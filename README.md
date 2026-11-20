@@ -7,12 +7,13 @@ The purpose of this repository is to house the necessary code and data to create
 [Photo from AP News](https://apnews.com/article/los-angeles-wildfires-by-numbers-palisades-altadena-9c077a61ab1482638d12885db76dce49)
 
 ## Repository Structure
-This repository contains this README.md file, a python notebook titled `hwk4-task2-false-color-Dennis.ipynb`, and data, which is behind the .gitignore. The repository is structured as follows:
+This repository contains this README.md file, a python notebook titled `hwk4-task2-false-color-Dennis.ipynb`, and data, which is behind the .gitignore. Also in this repository is the image shown above. The repository is structured as follows:
 ```
 eds220-hwk4
 │--  README.md
 │--  hwk4-task2-false-color-Dennis.ipynb
 │--  .gitignore
+│--  eds220-hwk4/palisadesfire.webp
 ```
 ## Data
 Data used in this repository comes from the [LA City GeoHub](https://geohub.lacity.org/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about) and from the [Landsat Collection 2 Level-2 products](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2). All data can be downloaded for free from these two websites.
