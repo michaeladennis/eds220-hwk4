@@ -3,7 +3,7 @@
 ## About
 The purpose of this repository is to house the necessary code and data to create a false color image of the Palisades and Eaton fires that occured in Los Angeles in 2025. 
 
-[Map of 2025 LA Wildfires](palisadesfire.webp)
+![Map of 2025 LA Wildfires](palisadesfire.webp)
 [Photo from AP News](https://apnews.com/article/los-angeles-wildfires-by-numbers-palisades-altadena-9c077a61ab1482638d12885db76dce49)
 
 ## Repository Structure
