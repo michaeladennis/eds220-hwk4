@@ -13,7 +13,7 @@ eds220-hwk4
 │--  README.md
 │--  hwk4-task2-false-color-Dennis.ipynb
 │--  .gitignore
-│--  eds220-hwk4/palisadesfire.webp
+│--  palisadesfire.webp
 ```
 ## Data
 Data used in this repository comes from the [LA City GeoHub](https://geohub.lacity.org/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about) and from the [Landsat Collection 2 Level-2 products](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2). All data can be downloaded for free from these two websites.
